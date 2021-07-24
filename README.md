@@ -1,2 +1,2 @@
 # GAN
-For practicing GAN Stuff
+For practising GAN Stuff
